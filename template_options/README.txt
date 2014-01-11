@@ -1,0 +1,1 @@
+To use the template options, you need to copy the html files in the default folder. For the sake of this archive size, we’re including all the assets required for the default and other template options in the default folder only.
